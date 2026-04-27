@@ -1,5 +1,4 @@
 name: Generate Pacman
-
 on:
   schedule:
     - cron: "0 0 * * *"
