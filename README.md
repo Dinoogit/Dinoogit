@@ -35,7 +35,7 @@
 
 ### 🏆 Trophy (biar keliatan sok aktif)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dinoogit&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Dinoogit&theme=tokyonight" />
 </p>
 
 ---
