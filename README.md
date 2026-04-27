@@ -35,14 +35,14 @@
 
 ### 🏆 Trophy (biar keliatan sok aktif)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME_LU&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dinoogit&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📫 Contact
-- Instagram: isi sendiri lah jangan manja
-- Email: isi juga
+- Instagram: @aldino_galuh
+- Tiktok: @dinoo_galuh
 
 ---
 
